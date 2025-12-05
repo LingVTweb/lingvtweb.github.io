@@ -1,38 +1,41 @@
-### 游戏属性
+## 游戏属性
 原名：ライムライト・レモネードジャム
 译名：柠檬汽水交响
 语言：机翻简体中文
-### PC端下载（1.1正式版本体+ai汉化+特典+全cg存档）
+## PC端下载（1.1正式版本体+ai汉化+特典+全cg存档）
 关于PC端相关介绍：
-已更新1.1版本，增加了老师的立绘
+已更新1.2版本，增加了更多的的立绘
 正式版本体+ai汉化+特典+全cg存档
 运行limelight_lj_Crack.exe
 如果有弹窗点否就可关掉了（点是可能要重新进入游戏）
 
-[维咔下载服务](https://vikingfile.com/f/WyzcHm9YVz)
+## 下载
 
-[OneDrive](https://wgtp6-my.sharepoint.com/:u:/g/personal/lingvt_wgtp6_onmicrosoft_com/EQLSBbgHDzdAgJpZsun_L74BXMRKK9Wvo_p-aoQqyMjypw?e=RDeysH)
+### PC 1.2版本下载
+[OneDrive](https://wgtp6-my.sharepoint.com/:u:/g/personal/lingvt_wgtp6_onmicrosoft_com/EZKjMNGU8pFFi3AcknO9bJkBd0H9GFMjjEbCBdG31kHp7Q?e=xf4Yhm)
 
-[萌盘下载](https://pan.moe/s/PEgMSr)
+[萌盘下载](https://pan.moe/s/40q0Tn)
 
-### Krkr端下载（完美版）
+[星星抱月球](https://pan.xxbyq.net/f/8j1tk/limelightljv1.2.zip)
+
+### Krkr 2.4下载
 
 关于Krkr端相关介绍：
 
-KRKR机翻移植，已包含全部内容稳定运行，UI已汉化，v1.7修复遗漏的手机翻译
+KRKR机翻移植，包含特典，v2.4全文本基本校对完成，修复部分文本bug，优化部分翻译
 
-[维咔下载服务](https://vikingfile.com/f/KB1hvR2GNU)
+[星星抱月球](https://pan.xxbyq.net/f/MQoT1/%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88%E3%83%BB%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%82%B8%E)
 
-[OneDrive](https://wgtp6-my.sharepoint.com/:u:/g/personal/lingvt_wgtp6_onmicrosoft_com/EZ7byYx06AlLsO_P-TNSeI0BwpjH4vmGVt3lM5PrYcJGNQ?e=JNBRUo)
+[OneDrive](https://wgtp6-my.sharepoint.com/:u:/g/personal/lingvt_wgtp6_onmicrosoft_com/EQtaFfXomIFIoGtbZUdy_KgBpySMQcHRJRqhia71dmhp8g?e=LUobGN)
 
-[萌盘下载](https://pan.moe/s/o5r4hp)
+[萌盘下载](https://pan.moe/s/5pq7UG)
 
-### 游戏简介
+## 游戏简介
 
 音乐、朋友、爱情。从他遇见她的那天起，世界开始闪耀——沖浪 雪鷹擅长贝斯，却从未加入过任何乐队。他没有目标，也没有其他想做的事情。在他漫无目的的音乐探索中，他偶然发现了一场街头表演，这场表演彻底改变了他单调的日常生活。一个名叫陽見 恵凪的女孩站在那里，以完全业余的水平，独自挑战着自弹自唱的表演。当沖浪 雪鷹目睹她的街头表演时，他平凡的世界再次开始闪耀。
 
-### 人物介绍（复制于 百度百科）
-[阳见惠凪](https://baike.baidu.com/item/%E9%98%B3%E8%A7%81%E6%83%A0%E5%87%AA/65749279?fromModule=lemma_inlink)
+## 人物介绍（复制于 百度百科）
+### [阳见惠凪](https://baike.baidu.com/item/%E9%98%B3%E8%A7%81%E6%83%A0%E5%87%AA/65749279?fromModule=lemma_inlink)
 配音：御圆纱纱
 [Lemonade Factory](https://baike.baidu.com/item/Lemonade%20Factory/65752605?fromModule=lemma_inlink) 吉他主唱
 转入与男主角相同学校的一位少女。
@@ -43,7 +46,7 @@ KRKR机翻移植，已包含全部内容稳定运行，UI已汉化，v1.7修复�
 `Gmeek-html<img src="https://pan.xxbyq.net/f/pKbIV/6609c93d70cf3bc79f3d21de1f5aada1cd11728bfcf4.png">`
 
 
-[隐杏珠](https://baike.baidu.com/item/%E9%9A%90%E6%9D%8F%E7%8F%A0/65749276?fromModule=lemma_inlink)
+### [隐杏珠](https://baike.baidu.com/item/%E9%9A%90%E6%9D%8F%E7%8F%A0/65749276?fromModule=lemma_inlink)
 配音：天季日和
 Lemonade Factory 主奏吉他手
 和男主角在同一个地方打工的女孩子。
@@ -53,7 +56,7 @@ Lemonade Factory 主奏吉他手
 `Gmeek-html<img src="https://pan.xxbyq.net/f/XPPHx/b17eca8065380cd7912315d96f1eba345982b2b72bf6.png">`
 
 
-[岛越月望](https://baike.baidu.com/item/%E5%B2%9B%E8%B6%8A%E6%9C%88%E6%9C%9B/65749277?fromModule=lemma_inlink)
+### [岛越月望](https://baike.baidu.com/item/%E5%B2%9B%E8%B6%8A%E6%9C%88%E6%9C%9B/65749277?fromModule=lemma_inlink)
 配音：虎濑がお
 Lemonade Factory 键盘手
 自小学习钢琴的大小姐。
@@ -63,7 +66,7 @@ Lemonade Factory 键盘手
 `Gmeek-html<img src="https://pan.xxbyq.net/f/GKPty/48540923dd54564e92586d0c7d848b82d158ccbfe1c9.png">`
 
 
-[二见原莉莉子](https://baike.baidu.com/item/%E4%BA%8C%E8%A7%81%E5%8E%9F%E8%8E%89%E8%8E%89%E5%AD%90/65749278?fromModule=lemma_inlink)
+### [二见原莉莉子](https://baike.baidu.com/item/%E4%BA%8C%E8%A7%81%E5%8E%9F%E8%8E%89%E8%8E%89%E5%AD%90/65749278?fromModule=lemma_inlink)
 
 配音：しましまはかせ
 Lemonade Factory SNS宣传
@@ -76,7 +79,7 @@ Lemonade Factory SNS宣传
 
 更多人物请前往[百度百科](https://baike.baidu.com/item/LimeLight%20Lemonade%20Jam/65751642)
 
-### 留言
+## 留言
 感谢此资源的汉化者，开发商们等相关热爱此资源的人。如果您喜欢本资源，请您到对应平台购买支持哦
 QQ群的密码你们自己不会搜吗，自己的密码写错还怪我们不让进？防住的就是你们这种人，所有发在维咔的资源可直接在维咔获取，无需进入下面的两个群
 [去爱发电赞助我](https://afdian.com/a/LingVT)
