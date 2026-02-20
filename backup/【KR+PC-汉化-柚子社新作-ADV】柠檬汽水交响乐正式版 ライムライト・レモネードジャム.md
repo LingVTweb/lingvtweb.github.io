@@ -15,9 +15,7 @@
 ### PC 1.2版本下载
 [OneDrive](https://wgtp6-my.sharepoint.com/:u:/g/personal/lingvt_wgtp6_onmicrosoft_com/EZKjMNGU8pFFi3AcknO9bJkBd0H9GFMjjEbCBdG31kHp7Q?e=xf4Yhm)
 
-[萌盘下载](https://pan.moe/s/40q0Tn)
-
-[星星抱月球](https://pan.xxbyq.net/f/8j1tk/limelightljv1.2.zip)
+[星星抱月球](https://pan.xxbyq.net/s/PWOTQ)
 
 ### Krkr 2.4下载
 
@@ -25,12 +23,9 @@
 
 KRKR机翻移植，包含特典，v2.4全文本基本校对完成，修复部分文本bug，优化部分翻译
 
-[星星抱月球](https://pan.xxbyq.net/f/MQoT1/%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88%E3%83%BB%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%82%B8%E)
+[星星抱月球](https://pan.xxbyq.net/s/MB7Sn)
 
 [OneDrive](https://wgtp6-my.sharepoint.com/:u:/g/personal/lingvt_wgtp6_onmicrosoft_com/EQtaFfXomIFIoGtbZUdy_KgBpySMQcHRJRqhia71dmhp8g?e=LUobGN)
-
-[萌盘下载](https://pan.moe/s/5pq7UG)
-
 ## 游戏简介
 
 音乐、朋友、爱情。从他遇见她的那天起，世界开始闪耀——沖浪 雪鷹擅长贝斯，却从未加入过任何乐队。他没有目标，也没有其他想做的事情。在他漫无目的的音乐探索中，他偶然发现了一场街头表演，这场表演彻底改变了他单调的日常生活。一个名叫陽見 恵凪的女孩站在那里，以完全业余的水平，独自挑战着自弹自唱的表演。当沖浪 雪鷹目睹她的街头表演时，他平凡的世界再次开始闪耀。
